@@ -1,14 +1,19 @@
+git
+var a = 12;
+var b = 13;
 
-var a=12;
-var b=13; 
+var c = 14;
 
-var c=14;
+var d = 14;
 
-var d=14;
+var e = 16;
+var br = "master";
 
-var e =16;
+var a = "branch3";
 
 
-var branks='testbranch'
-var branks='testbranch'
+var b = "branch3";
 
+
+
+var a=1212121.23232323232332;
