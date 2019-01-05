@@ -7,6 +7,3 @@ var c=14;
 var d=14;
 
 var e =16;
-
-var branch="master";
-
